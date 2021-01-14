@@ -1,0 +1,35 @@
+/* Definições estéticas para os módulos*/
+html,
+body{
+    
+    height: 100%;
+    font-size :1rem;
+    font-family: 'Raleway', sans-serif;
+}
+.gradient{
+    background: rgb(10,170,19);
+background: linear-gradient(90deg, rgba(10,170,19,1) 0%, rgba(20,121,9,1) 45%, rgba(20,121,13,1) 46%, rgba(0,153,255,1) 100%);
+}
+.page-header {
+    margin-top: 4rem ;
+    font-size: 1.2rem;
+    color: white;
+}
+footer{
+    color: #fff;
+    font-size :1rem;
+    margin: 0;
+    padding: 1rem;
+
+
+}
+
+a {
+    color: yellow;
+    text-decoration: dashed;
+}
+
+ul {
+    margin-right: 0rem;
+    font-size: 1.2rem;
+}
