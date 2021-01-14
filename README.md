@@ -19,7 +19,7 @@ Biblioteca utilizada:
  
  Passo 3: Acesse localhost/phpmyadmin.net/ em seu navegador para acessar o MySQL e importe o arquivo xastree.sql para executar os comandos do banco de dados.
  
- Passo 4: Após executar o banco de dados, na aba privilégios crie um novo usuário com ID: sysclient e senha: senha .
+ Passo 4: Após executar o banco de dados, na aba privilégios verifique se existe o usuário sysclient, caso não, crie um novo usuário com ID: sysclient e senha: senha .
  
           *Garanta todas as permissões ao usuário para que não haja problemas.
           
