@@ -4,10 +4,7 @@ Projeto realizado para processo seletivo.
 Programas utilizados para desenvolvimento e execução:
   XAMPP : 
 - Para instalação: Seguir os passos em https://www.apachefriends.org/pt_br/download.html
-   Apache
-- Presente no XAMPP
-   MySQL
-- Presente no XAMPP
+  
 Biblioteca utilizada:
   Bootstrap v5.0
 - Para instalação: Realizar download em https://getbootstrap.com/docs/5.0/getting-started/download/ 
