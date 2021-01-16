@@ -1,6 +1,7 @@
 
 <h1 align="center">Site de consultas da XasTree</h1>
 <p align="center">Projeto realizado para processo seletivo com objetivo de testar conhecimento de desenvolvimento WEB de back e front-end.</p>
+<h2 align="center"> Status de Desenvolvimento</h2>
 <h3 align="center"> 
 	Projeto finalizado!🎉
 </h3>
@@ -32,7 +33,7 @@
            *Estão cadastrados no banco apenas os ID 1 ao 6, qualquer número fora desse escopo retornará erros na página.
  <h4 align= "center"> Seguindo esses passos o site estará pronto para receber as solicitações e retornar as informações a partir do banco de dados!</4>
           
-  Tecnologias utilizadas:
+  <h3 align="center">Tecnologias utilizadas</h3>
   
   - <a href="https://getbootstrap.com/">Bootstrap v5.0 </a>
  
@@ -40,10 +41,10 @@
 
 - <a href="https://www.apachefriends.org/pt_br/index.html">MySQL</a>
 
-### Autor
+<h2 align="center">Autor </h2>
 ---
-
-<a align= "center">
+<p2 align="center">
+<a>
  <img style="border-radius: 50%;" src=https://avatars3.githubusercontent.com/u/54028107?s=460&u=cec16b4804185c24bd9e9120f26eb4298b6e7757&v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Luis Marcelo Stein d'Avila</b></sub></a> 
@@ -51,3 +52,4 @@
 Entre em Contato!
 
 luis.stein@hotmail.com
+</p2>
