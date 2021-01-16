@@ -42,14 +42,16 @@
 - <a href="https://www.apachefriends.org/pt_br/index.html">MySQL</a>
 
 <h2 align="center">Autor </h2>
----
-<p2 align="center">
-<a>
- <img style="border-radius: 50%;" src=https://avatars3.githubusercontent.com/u/54028107?s=460&u=cec16b4804185c24bd9e9120f26eb4298b6e7757&v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Luis Marcelo Stein d'Avila</b></sub></a> 
 
-Entre em Contato!
+
+<p align="center">
+ <img style="border-radius: 100%;" src=https://avatars3.githubusercontent.com/u/54028107?s=460&u=cec16b4804185c24bd9e9120f26eb4298b6e7757&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Luis Marcelo Stein d'Avila</b></sub> </p>
+ 
+<p align="center"> 
+ Entre em Contato!
 
 luis.stein@hotmail.com
-</p2>
+</p> 
+
